@@ -1,0 +1,26 @@
+# Web Framework & Servidor
+fastapi[standard]
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-dotenv
+httpx
+
+# Processamento de IA & LLMs
+langchain
+langchain-core
+langchain-google-genai
+langchain_openai
+langchain deepagents
+
+# Manipulação de Documentos & PDFs
+python-docx
+pypdf
+pdfplumber
+
+# Utilitários
+requests
+
+google-api-python-client 
+google-auth-httplib2 
+google-auth-oauthlib
